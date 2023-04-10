@@ -1,0 +1,27 @@
+[
+    {
+      "title": "ANTWERPEN",
+      "description": "Antwerp is a port city on Belgium’s River Scheldt, with history dating to the Middle Ages. In its center, the centuries-old Diamond District houses thousands of diamond traders, cutters and polishers. Antwerp’s Flemish Renaissance architecture is typified by the Grote Markt, a central square in the old town. At the 17th-century Rubens House, period rooms display works by the Flemish Baroque painter Peter Paul Rubens",
+      "imageUrl": "https://picsum.photos/id/1018/400",
+      "buttonText": "See More"
+    },
+    {
+      "title": "PARIS",
+      "description": "Paris, France's capital, is a major European city and a global center for art, fashion, gastronomy and culture. Its 19th-century cityscape is crisscrossed by wide boulevards and the River Seine. Beyond such landmarks as the Eiffel Tower and the 12th-century, Gothic Notre-Dame cathedral, the city is known for its cafe culture and designer boutiques along the Rue du Faubourg Saint-Honoré.",
+      "imageUrl": "https://picsum.photos/id/1015/400",
+      "buttonText": "Discover"
+    },
+    {
+      "title": "LONDON",
+      "description": "London is the capital and largest city of England and the United Kingdom. The city stands on the River Thames in the south-east of England, at the head of its 50-mile (80 km) estuary leading to the North Sea. London has been a major settlement for two millennia, and was originally called Londinium, which was founded by the Romans.",
+      "imageUrl": "https://picsum.photos/id/1019/400",
+      "buttonText": "Learn More"
+    },
+      {
+        "title": "Paris",
+        "description": "Paris, France's capital, is a major European city and a global center for art, fashion, gastronomy and culture. Its 19th-century cityscape is crisscrossed by wide boulevards and the River Seine. Beyond such landmarks as the Eiffel Tower and the 12th-century, Gothic Notre-Dame cathedral, the city is known for its cafe culture, and designer boutiques along the Rue du Faubourg Saint-Honoré.",
+        "imageUrl": "https://www.planetware.com/photos-large/F/france-paris-eiffel-tower.jpg",
+        "buttonText": "Discover More"
+      }    
+  ]
+  
